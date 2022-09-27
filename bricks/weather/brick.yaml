@@ -1,0 +1,11 @@
+name: weather
+description: A simple weather forecast bricks
+version: 1.0.0
+vars:
+  - name
+  - city
+  - condition
+  - temperature
+  - feels_like
+  - alerts_issued
+  - alerts
